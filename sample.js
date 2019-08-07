@@ -1,7 +1,6 @@
-function add(a, b){
-    return a + b;
+
+//negates the input
+function negate(a){
+    return !a
 }
 
-function sub(a, b){
-    return a - b;
-}
